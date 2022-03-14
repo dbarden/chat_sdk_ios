@@ -19,7 +19,7 @@ let package = Package(
                  .exact("2.11.4")),
         .package(name: "ZendeskMessagingSDK",
                  url: "https://github.com/dbarden/messaging_sdk_ios",
-                 .exact("3.8.4"))
+                 .exact("3.8.5"))
     ],
     targets: [
         .binaryTarget(
